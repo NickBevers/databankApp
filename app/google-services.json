@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20828031359",
+    "project_id": "databaseapp-d59ed",
+    "storage_bucket": "databaseapp-d59ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20828031359:android:6e52747c499aa9740db24a",
+        "android_client_info": {
+          "package_name": "com.example.databankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20828031359-eugpucgd0hhlt5hr2lcu5l6jj02n1t3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZu1c8EaHM_hqgSDu79Bbvg-gGwbNseY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20828031359-eugpucgd0hhlt5hr2lcu5l6jj02n1t3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
